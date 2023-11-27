@@ -1,0 +1,363 @@
+school,rating,id,conference,level,rd,volatility
+A&M-Corpus Christi,1000.0,560639,Southland,mid-major,600.0,0.06
+Abilene Christian,1000.0,560649,WAC,mid-major,600.0,0.06
+Air Force,1000.0,561195,MWC,mid-major,600.0,0.06
+Akron,1000.0,560651,MAC,mid-major,600.0,0.06
+Alabama,1500.0,560658,SEC,power,600.0,0.06
+Alabama A&M,1000.0,560654,SWAC,mid-major,600.0,0.06
+Alabama St.,1000.0,560655,SWAC,mid-major,600.0,0.06
+Alcorn,1000.0,560664,SWAC,mid-major,600.0,0.06
+American,1000.0,560666,Patriot,mid-major,600.0,0.06
+App State,1000.0,560667,Sunbelt,mid-major,600.0,0.06
+Arizona,1500.0,560672,Pac 12,power,600.0,0.06
+Arizona St.,1500.0,560669,Pac 12,power,600.0,0.06
+Ark.-Pine Bluff,1000.0,560622,SWAC,mid-major,600.0,0.06
+Arkansas,1500.0,560676,SEC,power,600.0,0.06
+Arkansas St.,1000.0,560674,Sunbelt,mid-major,600.0,0.06
+Army West Point,1000.0,561197,Patriot,mid-major,600.0,0.06
+Auburn,1500.0,560680,SEC,power,600.0,0.06
+Austin Peay,1000.0,560682,A-Sun,mid-major,600.0,0.06
+BYU,1500.0,560702,Big 12,power,600.0,0.06
+Ball St.,1000.0,560683,MAC,mid-major,600.0,0.06
+Baylor,1500.0,560687,Big 12,power,600.0,0.06
+Bellarmine,1000.0,561098,A-Sun,mid-major,600.0,0.06
+Belmont,1000.0,560635,MVC,mid-major,600.0,0.06
+Bethune-Cookman,1000.0,560689,SWAC,mid-major,600.0,0.06
+Binghamton,1000.0,560691,Am. East,mid-major,600.0,0.06
+Boise St.,1000.0,560693,MWC,mid-major,600.0,0.06
+Boston College,1500.0,560695,ACC,power,600.0,0.06
+Boston U.,1000.0,560696,Patriot,mid-major,600.0,0.06
+Bowling Green,1000.0,560699,MAC,mid-major,600.0,0.06
+Bradley,1000.0,560700,MVC,mid-major,600.0,0.06
+Brown,1000.0,560704,Ivy,mid-major,600.0,0.06
+Bryant,1000.0,560705,Am. East,mid-major,600.0,0.06
+Bucknell,1000.0,560707,Patriot,mid-major,600.0,0.06
+Buffalo,1000.0,560709,MAC,mid-major,600.0,0.06
+Butler,1500.0,560711,Big East,power,600.0,0.06
+CSU Bakersfield,1000.0,560714,Big West,mid-major,600.0,0.06
+CSUN,1000.0,560723,Big West,mid-major,600.0,0.06
+Cal Poly,1000.0,560712,Big West,mid-major,600.0,0.06
+Cal St. Fullerton,1000.0,560718,Big West,mid-major,600.0,0.06
+California,1500.0,560729,Pac 12,power,600.0,0.06
+California Baptist,1000.0,561094,WAC,mid-major,600.0,0.06
+Campbell,1000.0,560820,CAA,mid-major,600.0,0.06
+Canisius,1000.0,560822,MAAC,mid-major,600.0,0.06
+Central Ark.,1000.0,561265,A-Sun,mid-major,600.0,0.06
+Central Conn. St.,1000.0,560824,NEC,mid-major,600.0,0.06
+Central Mich.,1000.0,560828,MAC,mid-major,600.0,0.06
+Charleston So.,1000.0,560685,Big South,mid-major,600.0,0.06
+Charlotte,1500.0,560798,AAC,power,600.0,0.06
+Chattanooga,1000.0,561164,Southern,mid-major,600.0,0.06
+Chicago St.,1000.0,560830,Independent,mid-major,600.0,0.06
+Cincinnati,1500.0,560832,Big 12,power,600.0,0.06
+Clemson,1500.0,560836,ACC,power,600.0,0.06
+Cleveland St.,1000.0,560838,Horizon,mid-major,600.0,0.06
+Coastal Carolina,1000.0,560840,Sunbelt,mid-major,600.0,0.06
+Col. of Charleston,1000.0,560608,CAA,mid-major,600.0,0.06
+Colgate,1000.0,560843,Patriot,mid-major,600.0,0.06
+Colorado,1500.0,560847,Pac 12,power,600.0,0.06
+Colorado St.,1000.0,560845,MWC,mid-major,600.0,0.06
+Columbia,1000.0,560849,Ivy,mid-major,600.0,0.06
+Coppin St.,1000.0,560853,MEAC,mid-major,600.0,0.06
+Cornell,1000.0,560855,Ivy,mid-major,600.0,0.06
+Creighton,1500.0,560857,Big East,power,600.0,0.06
+Dartmouth,1000.0,560859,Ivy,mid-major,600.0,0.06
+Davidson,1000.0,560861,A-10,mid-major,600.0,0.06
+Dayton,1000.0,560863,A-10,mid-major,600.0,0.06
+DePaul,1500.0,560865,Big East,power,600.0,0.06
+Delaware,1000.0,560869,CAA,mid-major,600.0,0.06
+Delaware St.,1000.0,560867,MEAC,mid-major,600.0,0.06
+Denver,1000.0,560871,Summit,mid-major,600.0,0.06
+Detroit Mercy,1000.0,560873,Horizon,mid-major,600.0,0.06
+Drake,1000.0,560875,MVC,mid-major,600.0,0.06
+Drexel,1000.0,560877,CAA,mid-major,600.0,0.06
+Duke,1500.0,560879,ACC,power,600.0,0.06
+Duquesne,1000.0,560881,A-10,mid-major,600.0,0.06
+ETSU,1000.0,560885,Southern,mid-major,600.0,0.06
+East Carolina,1500.0,560883,AAC,power,600.0,0.06
+Eastern Ill.,1000.0,560887,OVC,mid-major,600.0,0.06
+Eastern Ky.,1000.0,560889,A-Sun,mid-major,600.0,0.06
+Eastern Mich.,1000.0,560891,MAC,mid-major,600.0,0.06
+Eastern Wash.,1000.0,560892,Big Sky,mid-major,600.0,0.06
+Elon,1000.0,560610,CAA,mid-major,600.0,0.06
+Evansville,1000.0,560893,MVC,mid-major,600.0,0.06
+FGCU,1000.0,560643,A-Sun,mid-major,600.0,0.06
+FIU,1000.0,560903,C-USA,mid-major,600.0,0.06
+Fairfield,1000.0,560895,MAAC,mid-major,600.0,0.06
+Fairleigh Dickinson,1000.0,560897,NEC,mid-major,600.0,0.06
+Fla. Atlantic,1500.0,560901,AAC,power,600.0,0.06
+Florida,1500.0,560908,SEC,power,600.0,0.06
+Florida A&M,1000.0,560899,SWAC,mid-major,600.0,0.06
+Florida St.,1500.0,560905,ACC,power,600.0,0.06
+Fordham,1000.0,560909,A-10,mid-major,600.0,0.06
+Fresno St.,1000.0,560716,MWC,mid-major,600.0,0.06
+Furman,1000.0,560911,Southern,mid-major,600.0,0.06
+Ga. Southern,1000.0,560919,Sunbelt,mid-major,600.0,0.06
+Gardner-Webb,1000.0,560612,Big South,mid-major,600.0,0.06
+George Mason,1000.0,560913,A-10,mid-major,600.0,0.06
+George Washington,1000.0,560915,A-10,mid-major,600.0,0.06
+Georgetown,1500.0,560917,Big East,power,600.0,0.06
+Georgia,1500.0,560924,SEC,power,600.0,0.06
+Georgia St.,1000.0,560920,Sunbelt,mid-major,600.0,0.06
+Georgia Tech,1500.0,560922,ACC,power,600.0,0.06
+Gonzaga,1500.0,560926,WCC,power,600.0,0.06
+Grambling,1000.0,560929,SWAC,mid-major,600.0,0.06
+Grand Canyon,1000.0,560614,WAC,mid-major,600.0,0.06
+Green Bay,1000.0,561249,Horizon,mid-major,600.0,0.06
+Hampton,1000.0,560931,CAA,mid-major,600.0,0.06
+Harvard,1000.0,560935,Ivy,mid-major,600.0,0.06
+Hawaii,1000.0,560937,Big West,mid-major,600.0,0.06
+High Point,1000.0,560637,Big South,mid-major,600.0,0.06
+Hofstra,1000.0,560939,CAA,mid-major,600.0,0.06
+Holy Cross,1000.0,560941,Patriot,mid-major,600.0,0.06
+Houston,1500.0,560945,Big 12,power,600.0,0.06
+Houston Christian,1000.0,560943,Southland,mid-major,600.0,0.06
+Howard,1000.0,560947,MEAC,mid-major,600.0,0.06
+IUPUI,1000.0,560624,Horizon,mid-major,600.0,0.06
+Idaho,1000.0,560951,Big Sky,mid-major,600.0,0.06
+Idaho St.,1000.0,560949,Big Sky,mid-major,600.0,0.06
+Illinois,1500.0,560955,Big 10,power,600.0,0.06
+Illinois St.,1000.0,560953,MVC,mid-major,600.0,0.06
+Indiana,1500.0,560558,Big 10,power,600.0,0.06
+Indiana St.,1000.0,560557,MVC,mid-major,600.0,0.06
+Iona,1000.0,560562,MAAC,mid-major,600.0,0.06
+Iowa,1500.0,560567,Big 10,power,600.0,0.06
+Iowa St.,1500.0,560565,Big 12,power,600.0,0.06
+Jackson St.,1000.0,560569,SWAC,mid-major,600.0,0.06
+Jacksonville,1000.0,560573,A-Sun,mid-major,600.0,0.06
+Jacksonville St.,1000.0,560571,C-USA,mid-major,600.0,0.06
+James Madison,1000.0,560575,Sunbelt,mid-major,600.0,0.06
+Kansas,1500.0,560579,Big 12,power,600.0,0.06
+Kansas City,1000.0,560626,Summit,mid-major,600.0,0.06
+Kansas St.,1500.0,560577,Big 12,power,600.0,0.06
+Kennesaw St.,1000.0,560616,A-Sun,mid-major,600.0,0.06
+Kent St.,1000.0,560581,MAC,mid-major,600.0,0.06
+Kentucky,1500.0,560583,SEC,power,600.0,0.06
+LIU,1000.0,560596,NEC,mid-major,600.0,0.06
+LMU (CA),1000.0,560733,WCC,mid-major,600.0,0.06
+LSU,1500.0,560600,SEC,power,600.0,0.06
+La Salle,1000.0,560585,A-10,mid-major,600.0,0.06
+Lafayette,1000.0,560587,Patriot,mid-major,600.0,0.06
+Lamar University,1000.0,560589,Southland,mid-major,600.0,0.06
+Le Moyne,1000.0,561749,NEC,mid-major,600.0,0.06
+Lehigh,1000.0,560591,Patriot,mid-major,600.0,0.06
+Liberty,1000.0,560593,C-USA,mid-major,600.0,0.06
+Lindenwood,1000.0,560555,OVC,mid-major,600.0,0.06
+Lipscomb,1000.0,560641,A-Sun,mid-major,600.0,0.06
+Little Rock,1000.0,560678,OVC,mid-major,600.0,0.06
+Long Beach St.,1000.0,560721,Big West,mid-major,600.0,0.06
+Longwood,1000.0,560598,Big South,mid-major,600.0,0.06
+Louisiana,1000.0,561145,Sunbelt,mid-major,600.0,0.06
+Louisiana Tech,1000.0,560602,C-USA,mid-major,600.0,0.06
+Louisville,1500.0,560604,ACC,power,600.0,0.06
+Loyola Chicago,1000.0,560735,A-10,mid-major,600.0,0.06
+Loyola Maryland,1000.0,560731,Patriot,mid-major,600.0,0.06
+Maine,1000.0,560736,Am. East,mid-major,600.0,0.06
+Manhattan,1000.0,560738,MAAC,mid-major,600.0,0.06
+Marist,1000.0,560740,MAAC,mid-major,600.0,0.06
+Marquette,1500.0,560742,Big East,power,600.0,0.06
+Marshall,1000.0,560744,Sunbelt,mid-major,600.0,0.06
+Maryland,1500.0,560747,Big 10,power,600.0,0.06
+Massachusetts,1000.0,560752,A-10,mid-major,600.0,0.06
+McNeese,1000.0,560755,Southland,mid-major,600.0,0.06
+Memphis,1500.0,560756,AAC,power,600.0,0.06
+Mercer,1000.0,560758,Southern,mid-major,600.0,0.06
+Merrimack,1000.0,561096,NEC,mid-major,600.0,0.06
+Miami (FL),1500.0,560763,ACC,power,600.0,0.06
+Miami (OH),1000.0,560761,MAC,mid-major,600.0,0.06
+Michigan,1500.0,560767,Big 10,power,600.0,0.06
+Michigan St.,1500.0,560765,Big 10,power,600.0,0.06
+Middle Tenn.,1000.0,560769,C-USA,mid-major,600.0,0.06
+Milwaukee,1000.0,561253,Horizon,mid-major,600.0,0.06
+Minnesota,1500.0,560772,Big 10,power,600.0,0.06
+Mississippi St.,1500.0,560773,SEC,power,600.0,0.06
+Mississippi Val.,1000.0,560775,SWAC,mid-major,600.0,0.06
+Missouri,1500.0,560780,SEC,power,600.0,0.06
+Missouri St.,1000.0,561141,MVC,mid-major,600.0,0.06
+Monmouth,1000.0,560781,CAA,mid-major,600.0,0.06
+Montana,1000.0,560785,Big Sky,mid-major,600.0,0.06
+Montana St.,1000.0,560783,Big Sky,mid-major,600.0,0.06
+Morehead St.,1000.0,560787,OVC,mid-major,600.0,0.06
+Morgan St.,1000.0,560789,MEAC,mid-major,600.0,0.06
+Mount St. Mary's,1000.0,560791,MAAC,mid-major,600.0,0.06
+Murray St.,1000.0,560792,MVC,mid-major,600.0,0.06
+N.C. A&T,1000.0,560974,CAA,mid-major,600.0,0.06
+N.C. Central,1000.0,560976,MEAC,mid-major,600.0,0.06
+NC State,1500.0,560978,ACC,power,600.0,0.06
+NIU,1000.0,560994,MAC,mid-major,600.0,0.06
+NJIT,1000.0,560961,Am. East,mid-major,600.0,0.06
+Navy,1000.0,561199,Patriot,mid-major,600.0,0.06
+Nebraska,1500.0,560804,Big 10,power,600.0,0.06
+Nevada,1000.0,560810,MWC,mid-major,600.0,0.06
+New Hampshire,1000.0,560958,Am. East,mid-major,600.0,0.06
+New Mexico,1000.0,560964,MWC,mid-major,600.0,0.06
+New Mexico St.,1000.0,560963,C-USA,mid-major,600.0,0.06
+New Orleans,1000.0,560966,Southland,mid-major,600.0,0.06
+Niagara,1000.0,560968,MAAC,mid-major,600.0,0.06
+Nicholls,1000.0,560970,Southland,mid-major,600.0,0.06
+Norfolk St.,1000.0,560972,MEAC,mid-major,600.0,0.06
+North Ala.,1000.0,560647,A-Sun,mid-major,600.0,0.06
+North Carolina,1500.0,560796,ACC,power,600.0,0.06
+North Dakota,1000.0,560981,Summit,mid-major,600.0,0.06
+North Dakota St.,1000.0,560980,Summit,mid-major,600.0,0.06
+North Florida,1000.0,560628,A-Sun,mid-major,600.0,0.06
+North Texas,1500.0,560983,AAC,power,600.0,0.06
+Northeastern,1000.0,560988,CAA,mid-major,600.0,0.06
+Northern Ariz.,1000.0,560989,Big Sky,mid-major,600.0,0.06
+Northern Colo.,1000.0,560992,Big Sky,mid-major,600.0,0.06
+Northern Ky.,1000.0,560998,Horizon,mid-major,600.0,0.06
+Northwestern,1500.0,561002,Big 10,power,600.0,0.06
+Northwestern St.,1000.0,561000,Southland,mid-major,600.0,0.06
+Notre Dame,1500.0,561004,ACC,power,600.0,0.06
+Oakland,1000.0,561006,Horizon,mid-major,600.0,0.06
+Ohio,1000.0,561010,MAC,mid-major,600.0,0.06
+Ohio St.,1500.0,561008,Big 10,power,600.0,0.06
+Oklahoma,1500.0,561014,Big 12,power,600.0,0.06
+Oklahoma St.,1500.0,561012,Big 12,power,600.0,0.06
+Old Dominion,1000.0,561016,Sunbelt,mid-major,600.0,0.06
+Ole Miss,1500.0,560777,SEC,power,600.0,0.06
+Omaha,1000.0,560806,Summit,mid-major,600.0,0.06
+Oral Roberts,1000.0,561018,Summit,mid-major,600.0,0.06
+Oregon,1500.0,561022,Pac 12,power,600.0,0.06
+Oregon St.,1500.0,561020,Pac 12,power,600.0,0.06
+Pacific,1000.0,561024,WCC,mid-major,600.0,0.06
+Penn,1000.0,561029,Ivy,mid-major,600.0,0.06
+Penn St.,1500.0,561028,Big 10,power,600.0,0.06
+Pepperdine,1000.0,561031,WCC,mid-major,600.0,0.06
+Pittsburgh,1500.0,561033,ACC,power,600.0,0.06
+Portland,1000.0,561036,WCC,mid-major,600.0,0.06
+Portland St.,1000.0,561035,Big Sky,mid-major,600.0,0.06
+Prairie View,1000.0,561038,SWAC,mid-major,600.0,0.06
+Presbyterian,1000.0,560618,Big South,mid-major,600.0,0.06
+Princeton,1000.0,561040,Ivy,mid-major,600.0,0.06
+Providence,1500.0,561042,Big East,power,600.0,0.06
+Purdue,1500.0,561044,Big 10,power,600.0,0.06
+Purdue Fort Wayne,1000.0,560560,Horizon,mid-major,600.0,0.06
+Queens (NC),1000.0,560552,A-Sun,mid-major,600.0,0.06
+Quinnipiac,1000.0,561047,MAAC,mid-major,600.0,0.06
+Radford,1000.0,561049,Big South,mid-major,600.0,0.06
+Rhode Island,1000.0,561050,A-10,mid-major,600.0,0.06
+Rice,1500.0,561052,AAC,power,600.0,0.06
+Richmond,1000.0,561055,A-10,mid-major,600.0,0.06
+Rider,1000.0,561056,MAAC,mid-major,600.0,0.06
+Robert Morris,1000.0,561059,Horizon,mid-major,600.0,0.06
+Rutgers,1500.0,561061,Big 10,power,600.0,0.06
+SFA,1000.0,561150,WAC,mid-major,600.0,0.06
+SIUE,1000.0,561131,OVC,mid-major,600.0,0.06
+SMU,1500.0,561133,AAC,power,600.0,0.06
+Sacramento St.,1000.0,560726,Big Sky,mid-major,600.0,0.06
+Sacred Heart,1000.0,561063,NEC,mid-major,600.0,0.06
+Saint Francis (PA),1000.0,561072,NEC,mid-major,600.0,0.06
+Saint Joseph's,1000.0,561077,A-10,mid-major,600.0,0.06
+Saint Louis,1000.0,561078,A-10,mid-major,600.0,0.06
+Saint Mary's (CA),1000.0,561080,WCC,mid-major,600.0,0.06
+Saint Peter's,1000.0,561082,MAAC,mid-major,600.0,0.06
+Sam Houston,1000.0,561084,C-USA,mid-major,600.0,0.06
+Samford,1000.0,561086,Southern,mid-major,600.0,0.06
+San Diego,1000.0,561090,WCC,mid-major,600.0,0.06
+San Diego St.,1000.0,561088,MWC,mid-major,600.0,0.06
+San Francisco,1000.0,561091,WCC,mid-major,600.0,0.06
+San Jose St.,1000.0,561092,MWC,mid-major,600.0,0.06
+Santa Clara,1000.0,561108,WCC,mid-major,600.0,0.06
+Seattle U,1000.0,560620,WAC,mid-major,600.0,0.06
+Seton Hall,1500.0,561110,Big East,power,600.0,0.06
+Siena,1000.0,561112,MAAC,mid-major,600.0,0.06
+South Alabama,1000.0,561113,Sunbelt,mid-major,600.0,0.06
+South Carolina,1500.0,561117,SEC,power,600.0,0.06
+South Carolina St.,1000.0,561115,MEAC,mid-major,600.0,0.06
+South Dakota,1000.0,561121,Summit,mid-major,600.0,0.06
+South Dakota St.,1000.0,561119,Summit,mid-major,600.0,0.06
+South Fla.,1500.0,561122,AAC,power,600.0,0.06
+Southeast Mo. St.,1000.0,561124,OVC,mid-major,600.0,0.06
+Southeastern La.,1000.0,561126,Southland,mid-major,600.0,0.06
+Southern California,1500.0,561127,Pac 12,power,600.0,0.06
+Southern Ill.,1000.0,561129,MVC,mid-major,600.0,0.06
+Southern Ind.,1000.0,561269,OVC,mid-major,600.0,0.06
+Southern Miss.,1000.0,561134,Sunbelt,mid-major,600.0,0.06
+Southern U.,1000.0,561136,SWAC,mid-major,600.0,0.06
+Southern Utah,1000.0,561139,WAC,mid-major,600.0,0.06
+St. Bonaventure,1000.0,561067,A-10,mid-major,600.0,0.06
+St. John's (NY),1500.0,561074,Big East,power,600.0,0.06
+St. Thomas (MN),1000.0,561106,Summit,mid-major,600.0,0.06
+Stanford,1500.0,561147,Pac 12,power,600.0,0.06
+Stetson,1000.0,561152,A-Sun,mid-major,600.0,0.06
+Stonehill,1000.0,561271,NEC,mid-major,600.0,0.06
+Stony Brook,1000.0,561154,CAA,mid-major,600.0,0.06
+Syracuse,1500.0,561156,ACC,power,600.0,0.06
+TCU,1500.0,561172,Big 12,power,600.0,0.06
+Tarleton St.,1000.0,561104,WAC,mid-major,600.0,0.06
+Temple,1500.0,561158,AAC,power,600.0,0.06
+Tennessee,1500.0,561166,SEC,power,600.0,0.06
+Tennessee St.,1000.0,561160,OVC,mid-major,600.0,0.06
+Tennessee Tech,1000.0,561162,OVC,mid-major,600.0,0.06
+Tex. A&M-Commerce,1000.0,561267,Southland,mid-major,600.0,0.06
+Texas,1500.0,561179,Big 12,power,600.0,0.06
+Texas A&M,1500.0,561170,SEC,power,600.0,0.06
+Texas Southern,1000.0,561174,SWAC,mid-major,600.0,0.06
+Texas St.,1000.0,561143,Sunbelt,mid-major,600.0,0.06
+Texas Tech,1500.0,561176,Big 12,power,600.0,0.06
+The Citadel,1000.0,560834,Southern,mid-major,600.0,0.06
+Toledo,1000.0,561186,MAC,mid-major,600.0,0.06
+Towson,1000.0,561188,CAA,mid-major,600.0,0.06
+Troy,1000.0,561190,Sunbelt,mid-major,600.0,0.06
+Tulane,1500.0,561192,AAC,power,600.0,0.06
+Tulsa,1500.0,561194,AAC,power,600.0,0.06
+UAB,1500.0,560659,AAC,power,600.0,0.06
+UAlbany,1000.0,560662,Am. East,mid-major,600.0,0.06
+UC Davis,1000.0,560813,Big West,mid-major,600.0,0.06
+UC Irvine,1000.0,560815,Big West,mid-major,600.0,0.06
+UC Riverside,1000.0,560819,Big West,mid-major,600.0,0.06
+UC San Diego,1000.0,561100,Big West,mid-major,600.0,0.06
+UC Santa Barbara,1000.0,560727,Big West,mid-major,600.0,0.06
+UCF,1500.0,560826,Big 12,power,600.0,0.06
+UCLA,1500.0,560817,Pac 12,power,600.0,0.06
+UConn,1500.0,560851,Big East,power,600.0,0.06
+UIC,1000.0,560956,MVC,mid-major,600.0,0.06
+UIW,1000.0,560631,Southland,mid-major,600.0,0.06
+ULM,1000.0,560985,Sunbelt,mid-major,600.0,0.06
+UMBC,1000.0,560746,Am. East,mid-major,600.0,0.06
+UMES,1000.0,560750,MEAC,mid-major,600.0,0.06
+UMass Lowell,1000.0,560606,Am. East,mid-major,600.0,0.06
+UNC Asheville,1000.0,560795,Big South,mid-major,600.0,0.06
+UNC Greensboro,1000.0,560800,Southern,mid-major,600.0,0.06
+UNCW,1000.0,560802,CAA,mid-major,600.0,0.06
+UNI,1000.0,560995,MVC,mid-major,600.0,0.06
+UNLV,1000.0,560808,MWC,mid-major,600.0,0.06
+USC Upstate,1000.0,560633,Big South,mid-major,600.0,0.06
+UT Arlington,1000.0,561178,WAC,mid-major,600.0,0.06
+UT Martin,1000.0,561168,OVC,mid-major,600.0,0.06
+UTEP,1000.0,561182,C-USA,mid-major,600.0,0.06
+UTRGV,1000.0,561026,WAC,mid-major,600.0,0.06
+UTSA,1500.0,561184,AAC,power,600.0,0.06
+Utah,1500.0,561204,Pac 12,power,600.0,0.06
+Utah St.,1000.0,561202,MWC,mid-major,600.0,0.06
+Utah Tech,1000.0,561102,WAC,mid-major,600.0,0.06
+Utah Valley,1000.0,560646,WAC,mid-major,600.0,0.06
+VCU,1000.0,561214,A-10,mid-major,600.0,0.06
+VMI,1000.0,561216,Southern,mid-major,600.0,0.06
+Valparaiso,1000.0,561206,MVC,mid-major,600.0,0.06
+Vanderbilt,1500.0,561208,SEC,power,600.0,0.06
+Vermont,1000.0,561210,Am. East,mid-major,600.0,0.06
+Villanova,1500.0,561212,Big East,power,600.0,0.06
+Virginia,1500.0,561220,ACC,power,600.0,0.06
+Virginia Tech,1500.0,561218,ACC,power,600.0,0.06
+Wagner,1000.0,561222,NEC,mid-major,600.0,0.06
+Wake Forest,1500.0,561224,ACC,power,600.0,0.06
+Washington,1500.0,561228,Pac 12,power,600.0,0.06
+Washington St.,1500.0,561226,Pac 12,power,600.0,0.06
+Weber St.,1000.0,561230,Big Sky,mid-major,600.0,0.06
+West Virginia,1500.0,561232,Big 12,power,600.0,0.06
+Western Caro.,1000.0,561235,Southern,mid-major,600.0,0.06
+Western Ill.,1000.0,561238,OVC,mid-major,600.0,0.06
+Western Ky.,1000.0,561239,C-USA,mid-major,600.0,0.06
+Western Mich.,1000.0,561241,MAC,mid-major,600.0,0.06
+Wichita St.,1500.0,561243,AAC,power,600.0,0.06
+William & Mary,1000.0,561245,CAA,mid-major,600.0,0.06
+Winthrop,1000.0,561247,Big South,mid-major,600.0,0.06
+Wisconsin,1500.0,561251,Big 10,power,600.0,0.06
+Wofford,1000.0,560632,Southern,mid-major,600.0,0.06
+Wright St.,1000.0,561255,Horizon,mid-major,600.0,0.06
+Wyoming,1000.0,561258,MWC,mid-major,600.0,0.06
+Xavier,1500.0,561259,Big East,power,600.0,0.06
+Yale,1000.0,561262,Ivy,mid-major,600.0,0.06
+Youngstown St.,1000.0,561264,Horizon,mid-major,600.0,0.06
