@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Ole Miss             | SEC                  | 12-0     | 3167   | 274       |
-| 2     | Houston              | Big 12               | 12-0     | 3078   | 281       |
-| 3     | James Madison        | Sunbelt              | 12-0     | 2758   | 289       |
-| 4     | Clemson              | ACC                  | 10-1     | 2278   | 87        |
-| 5     | Purdue               | Big 10               | 11-1     | 2247   | 84        |
-| 6     | Memphis              | AAC                  | 10-2     | 2241   | 89        |
-| 7     | South Carolina       | SEC                  | 11-1     | 2231   | 93        |
-| 8     | Kansas               | Big 12               | 11-1     | 2209   | 85        |
-| 9     | Grand Canyon         | WAC                  | 10-1     | 2127   | 92        |
-| 10    | Tennessee            | SEC                  | 9-3      | 2045   | 72        |
-| 11    | Arizona              | Pac 12               | 9-2      | 2038   | 75        |
-| 12    | BYU                  | Big 12               | 11-1     | 2021   | 88        |
-| 13    | Providence           | Big East             | 11-2     | 2010   | 78        |
-| 14    | Marquette            | Big East             | 10-3     | 2008   | 76        |
-| 15    | Fla. Atlantic        | AAC                  | 10-2     | 2000   | 74        |
-| 16    | Wisconsin            | Big 10               | 9-3      | 1995   | 73        |
-| 17    | Oklahoma             | Big 12               | 10-1     | 1995   | 86        |
-| 18    | Virginia             | ACC                  | 9-2      | 1979   | 78        |
-| 19    | Utah                 | Pac 12               | 9-2      | 1965   | 89        |
-| 20    | UConn                | Big East             | 11-2     | 1952   | 79        |
-| 21    | Nevada               | MWC                  | 12-1     | 1950   | 85        |
-| 22    | Illinois             | Big 10               | 9-2      | 1948   | 78        |
-| 23    | San Diego St.        | MWC                  | 10-2     | 1903   | 83        |
-| 24    | Dayton               | A-10                 | 9-2      | 1901   | 84        |
-| 25    | Kentucky             | SEC                  | 9-2      | 1895   | 80        |
+| 1     | Ole Miss             | SEC                  | 13-0     | 3126   | 289       |
+| 2     | Houston              | Big 12               | 13-0     | 3125   | 291       |
+| 3     | James Madison        | Sunbelt              | 13-0     | 2776   | 302       |
+| 4     | Clemson              | ACC                  | 11-1     | 2232   | 89        |
+| 5     | South Carolina       | SEC                  | 12-1     | 2196   | 95        |
+| 6     | Kansas               | Big 12               | 12-1     | 2187   | 87        |
+| 7     | Purdue               | Big 10               | 12-1     | 2182   | 86        |
+| 8     | Memphis              | AAC                  | 11-2     | 2161   | 93        |
+| 9     | Grand Canyon         | WAC                  | 12-1     | 2118   | 96        |
+| 10    | BYU                  | Big 12               | 12-1     | 2062   | 90        |
+| 11    | Utah                 | Pac 12               | 11-2     | 2051   | 90        |
+| 12    | Tennessee            | SEC                  | 9-3      | 2003   | 71        |
+| 13    | Oklahoma             | Big 12               | 12-1     | 1984   | 89        |
+| 14    | Marquette            | Big East             | 11-3     | 1982   | 76        |
+| 15    | Providence           | Big East             | 11-2     | 1977   | 77        |
+| 16    | San Diego St.        | MWC                  | 11-2     | 1940   | 82        |
+| 17    | UConn                | Big East             | 11-2     | 1933   | 79        |
+| 18    | Dayton               | A-10                 | 10-2     | 1910   | 86        |
+| 19    | Nevada               | MWC                  | 13-1     | 1907   | 87        |
+| 20    | Wisconsin            | Big 10               | 9-3      | 1900   | 73        |
+| 21    | Colorado St.         | MWC                  | 12-1     | 1899   | 86        |
+| 22    | Kentucky             | SEC                  | 10-2     | 1891   | 82        |
+| 23    | Illinois             | Big 10               | 10-2     | 1875   | 79        |
+| 24    | North Carolina       | ACC                  | 9-3      | 1873   | 73        |
+| 25    | Northwestern         | Big 10               | 10-2     | 1847   | 86        |
 
-Updated 12/27/2023 11:57:39
+Updated 01/02/2024 14:28:38
