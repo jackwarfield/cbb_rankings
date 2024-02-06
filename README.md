@@ -1,29 +1,29 @@
 | Rank  | Team                 | Conference           | Record   | Rating | Deviation |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   | ---:      |
-| 1     | Purdue               | Big 10               | 20-2     | 2013   | 82        |
-| 2     | UConn                | Big East             | 19-2     | 1942   | 80        |
-| 3     | Houston              | Big 12               | 19-2     | 1915   | 78        |
-| 4     | Tennessee            | SEC                  | 15-5     | 1842   | 68        |
-| 5     | South Carolina       | SEC                  | 18-3     | 1827   | 75        |
-| 6     | North Carolina       | ACC                  | 17-4     | 1823   | 71        |
-| 7     | Wisconsin            | Big 10               | 16-4     | 1815   | 70        |
-| 8     | Utah St.             | MWC                  | 19-2     | 1812   | 81        |
-| 9     | Kansas               | Big 12               | 17-4     | 1787   | 74        |
-| 10    | Ole Miss             | SEC                  | 18-3     | 1777   | 74        |
-| 11    | Iowa St.             | Big 12               | 16-4     | 1766   | 72        |
-| 12    | Alabama              | SEC                  | 15-6     | 1761   | 68        |
-| 13    | Marquette            | Big East             | 16-5     | 1753   | 69        |
-| 14    | New Mexico           | MWC                  | 18-3     | 1751   | 76        |
-| 15    | Dayton               | A-10                 | 17-3     | 1740   | 77        |
-| 16    | Illinois             | Big 10               | 16-5     | 1733   | 70        |
-| 17    | TCU                  | Big 12               | 16-5     | 1721   | 71        |
-| 18    | Arizona              | Pac 12               | 15-5     | 1720   | 69        |
-| 19    | Creighton            | Big East             | 16-5     | 1720   | 69        |
-| 20    | Duke                 | ACC                  | 16-4     | 1718   | 70        |
-| 21    | Texas Tech           | Big 12               | 16-4     | 1715   | 71        |
-| 22    | Auburn               | SEC                  | 17-4     | 1709   | 71        |
-| 23    | Florida              | SEC                  | 15-6     | 1709   | 66        |
-| 24    | Northwestern         | Big 10               | 15-6     | 1708   | 70        |
-| 25    | Kentucky             | SEC                  | 15-5     | 1702   | 69        |
+| 1     | Purdue               | Big 10               | 21-2     | 2033   | 82        |
+| 2     | UConn                | Big East             | 20-2     | 1951   | 80        |
+| 3     | Tennessee            | SEC                  | 16-5     | 1851   | 68        |
+| 4     | Houston              | Big 12               | 19-3     | 1842   | 73        |
+| 5     | South Carolina       | SEC                  | 19-3     | 1836   | 75        |
+| 6     | North Carolina       | ACC                  | 18-4     | 1835   | 71        |
+| 7     | Alabama              | SEC                  | 16-6     | 1777   | 68        |
+| 8     | Kansas               | Big 12               | 18-5     | 1760   | 72        |
+| 9     | Marquette            | Big East             | 17-5     | 1755   | 70        |
+| 10    | Wisconsin            | Big 10               | 16-6     | 1753   | 68        |
+| 11    | Illinois             | Big 10               | 17-5     | 1752   | 70        |
+| 12    | Auburn               | SEC                  | 18-4     | 1752   | 71        |
+| 13    | Dayton               | A-10                 | 18-3     | 1742   | 76        |
+| 14    | Utah St.             | MWC                  | 19-3     | 1741   | 75        |
+| 15    | Ole Miss             | SEC                  | 18-4     | 1735   | 71        |
+| 16    | Arizona              | Pac 12               | 17-5     | 1735   | 70        |
+| 17    | Grand Canyon         | WAC                  | 21-2     | 1723   | 89        |
+| 18    | Baylor               | Big 12               | 16-5     | 1710   | 67        |
+| 19    | Iowa St.             | Big 12               | 16-5     | 1707   | 69        |
+| 20    | San Diego St.        | MWC                  | 17-5     | 1702   | 68        |
+| 21    | New Mexico           | MWC                  | 18-4     | 1696   | 72        |
+| 22    | Virginia             | ACC                  | 18-5     | 1691   | 69        |
+| 23    | Indiana St.          | MVC                  | 20-3     | 1691   | 77        |
+| 24    | BYU                  | Big 12               | 16-5     | 1689   | 69        |
+| 25    | Duke                 | ACC                  | 16-5     | 1687   | 69        |
 
-Updated 02/01/2024 00:26:53
+Updated 02/06/2024 14:41:19
